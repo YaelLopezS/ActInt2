@@ -6,7 +6,7 @@
 # Fernando Manuel Chiñas Salinas - A00832747
 
 import pytest
-from ActInt2 import *
+from Equipo2_ActInt2 import *
 
 def test_leer_datos_correcto(tmp_path):
     """Prueba lectura de archivo con formato correcto"""
